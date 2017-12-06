@@ -23,7 +23,7 @@ variable "aws_access_key" {}
 variable "aws_secret_key" {}
 
 variable "num_webs" {
-  default = "3"
+  default = "3wertyuio"
 }
 
 variable "aws_region" {
